@@ -1,3 +1,3 @@
 # JARVIS-AI-CLONE
-Speech Recognition, Emailing, and Favourite website shortcuts.
-If you find any problem please highlight it
+I have created this project using my python skills using Speech Recognition, Emailing, Favourite website shortcuts, etc.
+If you find any problem, please highlight it.
